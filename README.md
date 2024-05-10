@@ -4,6 +4,9 @@ Modular report system for your CS:2 server - WestReportSystem
 
 **Sending reports to VK**
 
+![image](https://github.com/Stimayk/WestReportToVK/assets/51941742/1710d915-8f0d-41d7-bbea-20a4db8dc32e)
+
+
 Uses [VKNet](https://github.com/vknet/vk)
 
 Configuration file:
